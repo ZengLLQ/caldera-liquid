@@ -1,0 +1,11 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Node / IDE
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+*.swp
